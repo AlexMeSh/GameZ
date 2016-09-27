@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameZServer", "GameZServer\GameZServer.csproj", "{D5FC98A1-7CBC-4386-893F-C1A7785AEDC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameZ.NetworkLibrary", "GameZ.NetworkLibrary\GameZ.NetworkLibrary.csproj", "{DCE6501E-4D41-4985-8836-EF1466E6F534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{D5FC98A1-7CBC-4386-893F-C1A7785AEDC8}.Debug|x86.Build.0 = Debug|x86
 		{D5FC98A1-7CBC-4386-893F-C1A7785AEDC8}.Release|x86.ActiveCfg = Release|x86
 		{D5FC98A1-7CBC-4386-893F-C1A7785AEDC8}.Release|x86.Build.0 = Release|x86
+		{DCE6501E-4D41-4985-8836-EF1466E6F534}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DCE6501E-4D41-4985-8836-EF1466E6F534}.Debug|x86.Build.0 = Debug|Any CPU
+		{DCE6501E-4D41-4985-8836-EF1466E6F534}.Release|x86.ActiveCfg = Release|Any CPU
+		{DCE6501E-4D41-4985-8836-EF1466E6F534}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
